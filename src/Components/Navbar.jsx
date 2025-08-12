@@ -132,7 +132,7 @@ const Navbar = () => {
             px={[2, 6]}
             fontSize="md"
             as="a"
-            href="https://forms.gle/your-form-link"
+            href="https://forms.gle/UDir6a8tGENrR9iS8"
             target="_blank"
             rel="noopener noreferrer"
           >
